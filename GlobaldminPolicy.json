@@ -1,5 +1,5 @@
 {
-  "policy": "path \"secret/data/*\" {
+  \"policy\": "path \"secret/data/*\" {
   capabilities=[\"create\", \"read\", \"update\", \"delete\", \"list\", \"sudo\"]
-}"
+}\"
 }
